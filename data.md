@@ -1,0 +1,1 @@
+The dataset used for training emotion detection model can be found at ```https://www.kaggle.com/datasets/msambare/fer2013```

@@ -19,7 +19,7 @@ The CNN architecture consists of multiple convolutional and pooling layers follo
 
 ## Training
 
-The model was trained using the Adam optimizer with a categorical cross-entropy loss function. Training was performed for 50 epochs with early stopping based on validation accuracy and validation loss to prevent overfitting. The training process achieved a final training accuracy of approximately 90% and a validation accuracy of approximately 70%.
+The model was trained using the Adam optimizer with a categorical cross-entropy loss function. Training was performed for 50 epochs with early stopping based on validation accuracy and validation loss to prevent overfitting. The training process achieved a final training accuracy of approximately 60% and a validation accuracy of approximately 60%.
 
 ## Usage
 
